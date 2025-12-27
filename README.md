@@ -16,8 +16,8 @@
 
 5. Select a version with an update frequency that suits you 💕💕
 
-## Written for users
 
+## Written for users
 
 1. MacOS with different processor architectures sharing one Chrome software package
 
@@ -27,3 +27,7 @@
 ## Portable  
 
 Chrome++ : https://github.com/Bush2021/chrome_plus
+
+
+<img width="937" height="467" alt="ChromeDownloader" src="https://github.com/user-attachments/assets/e973e2e3-0552-45b3-9f69-896524308e0d" />
+
